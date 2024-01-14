@@ -38,9 +38,9 @@ def main(dict):
     """
     
     secret = {
-        "URL": "https://a7637d95-13fd-4d36-bd33-c43326d44b48-bluemix.cloudantnosqldb.appdomain.cloud",
-        "IAM_API_KEY": "KvcAgqnvLvK8TRAqUujdAmrtR8mVwTjK2yHxDBDU9GQ1",
-        "ACCOUNT_NAME": "a7637d95-13fd-4d36-bd33-c43326d44b48-bluemix",
+       "URL": "https://063fc40b-3037-44c2-b49d-f73c018315e2-bluemix.cloudantnosqldb.appdomain.cloud",
+       "IAM_API_KEY": "XLTuMo5dArgNNUf-aaATYohUVn73ES5fA9rriCFtGlHE",
+       "ACCOUNT_NAME": "063fc40b-3037-44c2-b49d-f73c018315e2-bluemix",
     }
 
     client = Cloudant.iam(
